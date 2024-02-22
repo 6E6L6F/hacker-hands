@@ -1,0 +1,182 @@
+ul {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+label {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+.my-cards {
+    padding :15px;
+    background-color: rgba(214, 214, 214, 0.678);
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.style-card {
+    padding: 3px;
+    margin: 10px;
+    transition: 0.3s;
+    box-shadow: 8px 0px 20px black;
+} 
+
+.style-card:hover {
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 5px 3px 10px black;
+} 
+.style-card img {
+    border-radius:5px;
+}
+
+
+.tools-style {
+    padding:25px;
+    margin:10px;
+    background-color:rgba(218, 217, 217, 0.349);
+    border-radius:7px;
+}
+
+.butt {
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.m {
+    margin: 5px;
+}
+.desc {
+    padding:10px;
+    margin:5px;
+    background-color:rgba(218, 217, 217, 0.87);
+
+}
+
+.form-border {
+    border-radius:5px;
+    background-color:rgba(155, 153, 153, 0.445);
+
+}
+
+.center-form {
+    margin: 10%;
+    background-color: rgba(182, 182, 182, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+}
+.center-form input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.bg-login {
+    background-color: azure;   
+}
+.h1-text {
+    text-align: center;
+}
+
+.hover-message-box {
+    background-color: black;
+    color:green;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    
+}
+
+.carousel {
+    margin: 10px 25px 10px 25px!important;
+    box-shadow: 5px 3px 10px black;
+    border-radius: 15px !important;
+}
+
+.down-logs {
+    margin: 10px;
+    padding: 25px;
+    list-style: none;
+}
+select {
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 5px;
+    color: black;
+    transition: 0.3s;
+}
+select:hover {
+    background-color: #c8c6c6;
+    color: black;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+  
+th {
+    background-color: #f2f2f2;
+}
+  
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+  
+tr {
+    background-color: #ddd;
+}
+
+.logs-show {
+    background-color: black;
+    color: darkgreen;
+    padding: 5px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.863) !important;
+}
+.nav {
+    background-color: black !important;
+}
+.dropdown-menu {
+    background-color: black !important;
+}
+.dropdown-item {
+    color: rgb(151, 0, 0) !important;
+}
+
+.dropdown-item:hover {
+    color: red !important;
+    background-color: black !important;
+}
+.dropdown-toggle {
+    color: red !important;
+}
+.active {
+    background-color: rgba(24, 24, 24, 0.822) !important;
+    color: rgb(245, 0, 0) !important;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.705) !important;
+}
+
+.nav-link {
+    color: rgb(151, 0, 0) !important;
+}
+.form-border {
+    padding: 5px !important;
+}
+
+.img-size  {
+    width: 232px !important;
+}
