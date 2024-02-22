@@ -1,0 +1,4 @@
+flask
+flask-jwt-extended
+bs4
+requests
